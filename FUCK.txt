@@ -1,0 +1,7 @@
+public class ganesh
+{
+int string ganesh;
+ganesh()
+{
+reurn ganesh
+}
